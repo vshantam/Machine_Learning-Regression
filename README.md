@@ -8,5 +8,6 @@ https://github.com/vshantam/Machine_Learning-Regression/blob/master/figure_1.png
 
 To run the Project need to be install all the packages.
 please run the following command:
+
 "pip install -r requirements.txt"
 
