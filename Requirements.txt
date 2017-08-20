@@ -1,0 +1,6 @@
+pandas >=0.19.2
+quandl >=3.2.0
+math >=0.19
+numpy >=1.13.1
+sklearn >=0.0
+matplotlib >=2.0.0
