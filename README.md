@@ -4,4 +4,4 @@ This project Contains Quandl dataset and making use of Regression Algoithm to pr
 
 Sample screenshots:
 
-('https://github.com/vshantam/Machine_Learning-Regression/figure_1.png')
+https://github.com/vshantam/Machine_Learning-Regression/blob/master/figure_1.png
