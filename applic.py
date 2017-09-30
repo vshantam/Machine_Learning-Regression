@@ -5,10 +5,8 @@ def main():
 	try:
 		#setting API key for unlimited Access to Free data sets from Quandl;
 		quandl.ApiConfig.api_key ='8NCm_V55725o9WHs9wsb'#add your key;
-	
 		#extracting the dataset 
 		data=quandl.get_table('WIKI/PRICES')#or choose your tables
-	
 		#Using only those which are important
 		data=data[['adj_open','adj_high','adj_low','adj_close','adj_volume','date']];
 		#calculating High-LOw Percentage for the data for each row
