@@ -1,6 +1,5 @@
 #importing Libraries
 from lib import *
-
 def main():
 	try:
 		#setting API key for unlimited Access to Free data sets from Quandl;
