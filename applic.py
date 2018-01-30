@@ -2,7 +2,6 @@
 from lib import *
 
 class Stock(object):
-	
 	@classmethod
 	def main(self):
 		
